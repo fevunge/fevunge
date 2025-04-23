@@ -1,5 +1,5 @@
 
-[!avatar]: (images/fevunge-logo.png)
+[!avatar]: (image/fevunge-logo.png)
 
 ## Hi there 👋
 
