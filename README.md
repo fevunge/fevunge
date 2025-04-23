@@ -1,3 +1,6 @@
+
+[!avatar]: (images/fevunge-logo.png)
+
 ## Hi there 👋
 
 <!--
@@ -15,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [fevunge](
+
