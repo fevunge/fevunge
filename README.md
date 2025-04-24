@@ -4,7 +4,7 @@
 
 ---------------------------
 
-Keep It Simple, Stupid. - [fevunge](http://fevunge.vercel.app)
+K.I.S.S. - [fevunge](http://fevunge.vercel.app)
 
 ![avatar](image/avatar.png)
 
