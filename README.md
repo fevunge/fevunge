@@ -1,11 +1,11 @@
 <h2><center>Fernando Vunge</center></h2>
 
-
+✉️  [developervunge@gmail.com](mailto:developervunge@gmail.com)
 ---------------------------
 Coder and full-stack developer, problem solver, and virtuoso learner.
+---------------------------
 🌍  Luanda, Angola
 🖥️  [fevunge](http://fevunge.vercel.app)
-✉️  [developervunge@gmail.com](mailto:developervunge@gmail.com)
 
 
 * ⚡  Keep It Simple, Stupid. And Don't Panic
