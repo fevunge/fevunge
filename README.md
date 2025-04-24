@@ -1,10 +1,9 @@
 <h2><center>Fernando Vunge</center></h2>
 
-✉️  [developervunge@gmail.com](mailto:developervunge@gmail.com)
+✉️  [envie me um email](mailto:developervunge@gmail.com)
 
 ---------------------------
-🌍  Luanda, Angola
-🖥️  [fevunge](http://fevunge.vercel.app)
+[fevunge](http://fevunge.vercel.app)
 
 
 * ⚡  Keep It Simple, Stupid. And Don't Panic
