@@ -1,12 +1,10 @@
 <h2><center>Fernando Vunge</center></h2>
 
-✉️  [envie me um email](mailto:developervunge@gmail.com)
+✉️  [talk to fevunge](mailto:developervunge@gmail.com)
 
 ---------------------------
-[fevunge](http://fevunge.vercel.app)
 
-
-* ⚡  Keep It Simple, Stupid. And Don't Panic
+Keep It Simple, Stupid. - [fevunge](http://fevunge.vercel.app)
 
 ![avatar](image/avatar.png)
 
@@ -24,16 +22,9 @@
 ### Socials
 <p align="left"> <a href="https://www.dev.to/fevunge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.gitlab.com/devunge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/vunge_dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
-🤝  I'm open to collaborating on 
-    >   -
-        - Passionate about open source projects
-        - SaaS platforms
-        - startup environments
-        - minimalistic tools like CLI applications
-        - terminal workflows, and Linux systems.
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/fevunge"><img src="https://github-readme-stats.vercel.app/api?username=fevunge&show_icons=true&hide=stars,prs,&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=ef4444&bg_color=181824&hide_border=true&show_icons=true" alt="fevunge's GitHub stats" /></a>
+* 🤝  I'm open to collaborating on 
+    > Passionate about open source projects<br>
+    > SaaS platforms<br>
+    > startup environments<br>
+    > minimalistic tools like CLI applications<br>
+    > terminal workflows, and Linux systems.<br>
