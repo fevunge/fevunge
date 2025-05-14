@@ -4,7 +4,7 @@
 
 ---------------------------
 
-K.I.S.S. - [fevunge](http://fevunge.vercel.app)
+keeping it just simple - [fevunge](http://fevunge.vercel.app)
 
 ![avatar](image/avatar.png)
 
