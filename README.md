@@ -1,6 +1,6 @@
 <h2><center>Fernando Vunge</center></h2>
 
-✉️  [talk to fevunge](mailto:developervunge@gmail.com)
+✉️  [send email](mailto:developervunge@gmail.com)
 
 ---------------------------
 
