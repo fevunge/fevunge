@@ -7,8 +7,8 @@
 ###
 
 <p align="right">[programming]</p>
-<p><b>✉️</b>  [send](mailto:developervunge@gmail.com) me a email</p>
-<p><b>🕸</b> [find](https://linktr.ee/fevunge) me on web</p>
+<p><b>✉️</b>  <a href="mailto:developervunge@gmail.com">send</a> me a email</p>
+<p><b>🕸</b> <a href="mailto:developervunge@gmail.com">find</a> me on web</p>
 
 ###
 
