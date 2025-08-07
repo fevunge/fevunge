@@ -1,4 +1,4 @@
-<h1 align="right">Hello World!!</h1>
+<h1 align="left">Hello World!!</h1>
 
 ###
 
@@ -6,13 +6,13 @@
 
 ###
 
-<p align="center">[programming]</p>
-✉️  [send](mailto:developervunge@gmail.com) me a email
-🕸 [find](https://linktr.ee/fevunge) me on web
+<p align="right">[programming]</p>
+<p><b>✉️</b>  [send](mailto:developervunge@gmail.com) me a email</p>
+<p><b>🕸</b> [find](https://linktr.ee/fevunge) me on web</p>
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fevunge&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
