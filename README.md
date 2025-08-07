@@ -56,6 +56,8 @@
 
 ###
 
+<a href="http://oficina-do-gif.blogspot.com/" target="_blank"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgxdcmOvBsWOarHpU88PPdf3rLF0Fr0nNTVj3yBqaZuylZyBF9F9RCqARi05kPTimbb321HKRCu1ELBBRKUxYG7WWJCcIK4xFx9e1JoZrrWMpWeDQoXvKgAYvYNn9OudnEqltzomOMCjA/" border="0"></a>
+
 <div align="left">
   <a href="https://gitlab.com/fevunge" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="52" height="40" alt="gitlab logo"  />
