@@ -1,7 +1,10 @@
 <h1 align="center">Hi, i'm Fernando Vunge</h1>
 <h3 align="center">A pioneer in programming and computer science, lover of mathematics and physics, my timezone: Africa/Luanda.</h3>
 
-- I’m currently working on **Angoway and The Time!**
+- I’m currently working on:
+  - **Angoway**
+  - **The Time!**
+  - **Go Link**
 
 - currently learning **computer science and fullstack programming**
 
