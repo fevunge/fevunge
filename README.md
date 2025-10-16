@@ -7,19 +7,14 @@
                             |___/      
 <h3 align="center">A pioneer in programming and computer science, lover of mathematics and physics, my timezone: Africa/Luanda.</h3>
 
-- I’m currently working on:
-  - **Angoway**
-  - **The Time!**
-  - **Go Link**
+- I’m currently working...
 
-- currently learning **computer science and fullstack programming**
+- learning **computer science and fullstack programming**
 
 - looking to collaborate on **ideas and initiatives for projects and studies**
 
-- Help me to **become a better programmer, talk to me!**
-
-- How to reach me: **fevunge@outlook.com**
-
+- say something: **fevunge@outlook.com**
+<code>
  _______________
 < Hi body       >
  ---------------
@@ -29,7 +24,7 @@
                 ||----w |
                 ||     ||
 
-
+</code>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fevunge" height="30" width="40" /></a>
