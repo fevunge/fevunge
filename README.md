@@ -1,10 +1,10 @@
-                     _____                                 
-                    |  ___|____   ___   _ _ __   __ _  ___ 
-                    | |_ / _ \ \ / / | | | '_ \ / _` |/ _ \
-                    |  _|  __/\ V /| |_| | | | | (_| |  __/
-                    |_|  \___| \_/  \__,_|_| |_|\__, |\___|
-                                                |___/      
 <h1 align="center">Hi, i'm Fernando Vunge</h1>
+ _____                                 
+|  ___|____   ___   _ _ __   __ _  ___ 
+| |_ / _ \ \ / / | | | '_ \ / _` |/ _ \
+|  _|  __/\ V /| |_| | | | | (_| |  __/
+|_|  \___| \_/  \__,_|_| |_|\__, |\___|
+                            |___/      
 <h3 align="center">A pioneer in programming and computer science, lover of mathematics and physics, my timezone: Africa/Luanda.</h3>
 
 - I’m currently working on:
