@@ -2,7 +2,7 @@
 <p align="center">ᛉᚤ ᚿᛆᛉᛂ ᛁᛍ ᚠᛂᚡᚢᛜᛂ, ᛆᚿᛑ ᛁ ᛆᛉ ᛒᛂᛐᛐᛂᚱ!</p>   
 <h3 align="center">A pioneer in programming and computer science, lover of mathematics and physics, my timezone: Africa/Luanda.</h3>
 
-- I’m currently working...
+- I’m currently working at Angoway
 
 - learning **computer science and fullstack programming**
 
