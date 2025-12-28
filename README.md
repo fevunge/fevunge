@@ -1,5 +1,5 @@
 <h1 align="center">Hi, i'm Fernando Vunge</h1>
-<p align="center">ᛉᚤ ᚿᛆᛉᛂ ᛁᛍ ᚠᛂᚡᚢᛜᛂ, ᛆᚿᛑ ᛁ ᛆᛉ ᛒᛂᛐᛐᛂᚱ!</p>   
+<p align="center">ᛉᚤ ᚿᛆᛉᛂ ᛁᛍ ᚠᛂᚡᚢᛜᛂ, ᛆᚿᛑ ᛁ ᛆᛉ ᛒᛂᛐᛐᛂᚱ!</p>
 <h3 align="center">A pioneer in programming and computer science, lover of mathematics and physics, my timezone: Africa/Luanda.</h3>
 
 - I’m currently working at Angoway
@@ -8,7 +8,7 @@
 
 - looking to collaborate on **ideas and initiatives for projects and studies**
 
-- say something: **fevunge@outlook.com**
+- say something: **<fevunge@outlook.com>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,10 +17,8 @@
 <a href="https://twitter.com/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fevunge" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fevunge" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fevunge" height="30" width="40" /></a>
 </p>
-
-
