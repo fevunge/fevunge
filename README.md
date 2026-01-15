@@ -1,14 +1,21 @@
-<h1 align="center">Hi, i'm Fernando Vunge</h1>
-<p align="center">ᛉᚤ ᚿᛆᛉᛂ ᛁᛍ ᚠᛂᚡᚢᛜᛂ, ᛆᚿᛑ ᛁ ᛆᛉ ᛒᛂᛐᛐᛂᚱ!</p>
-<h3 align="center">A pioneer in programming and computer science, lover of mathematics and physics, my timezone: Africa/Luanda.</h3>
+## Fernando Vunge
 
-- I’m currently working at Angoway
+- email to fevunge -> **<fevunge@outlook.com>**
 
-- learning **computer science and fullstack programming**
+## 🔥 Stats
 
-- looking to collaborate on **ideas and initiatives for projects and studies**
+![GitHub Stats](github-readme-stats)
+![Streak](github-readme-streak-stats)
+![Top Languages](github-readme-stats/top-langs)
 
-- say something: **<fevunge@outlook.com>**
+## 🚀 Current Focus
+
+- [Java Microservice]
+- [Minishel 42 Project]
+
+## 📝 Latest Blog Posts
+
+- [Auto-feed do DEV.to]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
