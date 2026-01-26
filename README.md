@@ -1,33 +1,20 @@
-# Fernando Vunge
-    - *fevunge@outlook.com*
-    - *developervunge@gmail.com*
+# Fernando Vunge (fevunge)
+- *fevunge@outlook.com*
+- *developervunge@gmail.com*
 
-## 🔥 Tech SKills
-- **Systems**
-  - *C/C++*
-  - *Shell | Linux*
-  - *Python*
-- **DevOps**
-  - *GO Lang | Docker | Docker Compose*
-  - *Git | SSH | Jest*
-- **Web development**
-  - *NodeJS | NestJS | Typescript*
-  - *Spring | Spring Boot*
-  - *Go Lang | GIN*
-- **Dynamic Programing**
-  - *Python | Lua | C*
+## Tech SKills
 
-## 🚀 Current Focus
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,typescript,python,lua,java&theme=dark)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,docker,vscode,nginx,jenkins&theme=dark)](https://skillicons.dev)
+
+## Current Focus
 
 - **Web Microservices**
 - **Minishell**
 - **Typescript specialization**
 
-## 📝 Latest Blog Posts
-
-- [NULL]
-  
-## More about me
+ ## More about me
 
 <a href="https://codepen.io/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://dev.to/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fevunge" height="30" width="40" /></a>
@@ -39,3 +26,7 @@
 <a href="https://codeforces.com/profile/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fevunge" height="30" width="40" /></a>
 </p>
+
+## soon
+
+...
