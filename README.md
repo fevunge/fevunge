@@ -2,8 +2,8 @@
 
 **contact**
     - **email**
-      - *<fevunge@outlook.com>*
-      - *<developervunge@gmail.com>*
+        - *<fevunge@outlook.com>*
+        - *<developervunge@gmail.com>*
 
 ## 🔥 Tech SKills
 - **Systems**
