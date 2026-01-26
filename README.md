@@ -1,24 +1,37 @@
-## Fernando Vunge
+# Fernando Vunge
 
-- email to fevunge -> **<fevunge@outlook.com>**
+**contact**
+    - **email**
+      - *<fevunge@outlook.com>*
+      - *<developervunge@gmail.com>*
 
-## 🔥 Stats
-
-![GitHub Stats](github-readme-stats)
-![Streak](github-readme-streak-stats)
-![Top Languages](github-readme-stats/top-langs)
+## 🔥 Tech SKills
+- **Systems**
+  - *C/C++*
+  - *Shell | Linux*
+  - *Python*
+- **DevOps**
+  - *GO Lang | Docker | Docker Compose*
+  - *Git | SSH | Jest*
+- **Web development**
+  - *NodeJS | NestJS | Typescript*
+  - *Spring | Spring Boot*
+  - *Go Lang | GIN*
+- **Dynamic Programing**
+  - *Python | Lua | C*
 
 ## 🚀 Current Focus
 
-- [Java Microservice]
-- [Minishel 42 Project]
+- **Web Microservices**
+- **Minishell**
+- **Typescript specialization**
 
 ## 📝 Latest Blog Posts
 
-- [Auto-feed do DEV.to]
+- [NULL]
+  
+## More about me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 <a href="https://codepen.io/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://dev.to/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fevunge" height="30" width="40" /></a>
 <a href="https://twitter.com/fevunge" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fevunge" height="30" width="40" /></a>
