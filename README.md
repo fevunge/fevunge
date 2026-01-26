@@ -2,11 +2,9 @@
 - *fevunge@outlook.com*
 - *developervunge@gmail.com*
 
-## Tech SKills
+## My Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,go,typescript,python,lua,java&theme=dark)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,spring,docker,vscode,nginx,jenkins&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,python,nodejs,nestjs,spring,linux,nvim&theme=dark)](https://skillicons.dev)
 
 ## Current Focus
 
