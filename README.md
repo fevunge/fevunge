@@ -1,6 +1,4 @@
-![Header](./image/github-header-banner.png)
 # Fernando Vunge 
-
 
 **fevunge | engineer | human coder | devops**  
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/fevunge) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fevunge) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:developervunge@gmail.com) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@fevunge)  
@@ -9,7 +7,7 @@
 [![SITE](https://img.shields.io/badge/SITE-blue.svg)](https://fevunge.github.io)
 
 
-> **Software engineer interested in distributed systems, microservices, database architecture, and DevOps. Building scalable systems and contributing to open source.**
+> ## **Software engineer interested in distributed systems, microservices, database architecture, and DevOps. Building scalable systems and contributing to open source.**
 
 ---
 ![](http://stats.pphat.top/badge/visitors?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/repositories?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/languages?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/total-commits?username=fevunge&theme=default)
