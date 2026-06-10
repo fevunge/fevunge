@@ -7,7 +7,7 @@
 [![SITE](https://img.shields.io/badge/SITE-blue.svg)](https://fevunge.github.io)
 
 
-> ## **Software engineer interested in distributed systems, microservices, database architecture, and DevOps. Building scalable systems and contributing to open source.**
+> ## **Dev & Builder**
 
 ---
 ![](http://stats.pphat.top/badge/visitors?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/repositories?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/languages?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/total-commits?username=fevunge&theme=default)
