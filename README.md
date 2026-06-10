@@ -34,7 +34,7 @@ os: ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo
 ![Hono](https://img.shields.io/badge/Hono-339933?style=flat&logo=hono&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-6DB33F?style=flat&logo=nestjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-6DB33F?style=flat&logo=nestjs&logoColor=#E0234E)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
