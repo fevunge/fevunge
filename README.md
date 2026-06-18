@@ -26,16 +26,18 @@ os: ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)   
 ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat&logo=zig&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white)   
+
+**Script Languages**  
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)   
 
-**Frameworks**  
+**Web Frameworks**  
 ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat&logo=hono&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJs-E0234E?style=flat&logo=nestjs&logoColor=white)
 
-**Databases**  
+**Relacional Databases**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
