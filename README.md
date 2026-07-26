@@ -24,6 +24,6 @@
 - Next-Generation Fleet Management for African Markets
 - My first RayCaster
 
-## Posts
-
-[My first RayCaster](https://dev.to/fevunge/my-first-raycaster-1lf9)
+## Latest Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
