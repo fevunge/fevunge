@@ -29,5 +29,3 @@
 ## GitHub Stats
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fevunge)
-
-[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=fevunge&theme=catppuccin-mocha&hide=prs&show=reviews%2Cissues_closed&border_width=0&border_radius=0)](https://bit.ly/gh-readme-profile)
