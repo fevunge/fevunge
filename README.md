@@ -5,8 +5,6 @@
  [![BLOG](https://img.shields.io/badge/BLOG-black.svg)](https://dev.to/fevunge)  [![SITE](https://img.shields.io/badge/SITE-purple.svg)](https://fevunge.github.io) 
 
 ---
-![](http://stats.pphat.top/badge/visitors?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/repositories?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/languages?username=fevunge&theme=default) ![](http://stats.pphat.top/badge/total-commits?username=fevunge&theme=default)
-![](http://stats.pphat.top/badge/total-pull-requests?username=fevunge&theme=default) 
 ## Skills
 
 - **Systems Programming**
@@ -27,3 +25,9 @@
 ## Latest Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+## GitHub Stats
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fevunge)
+
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=fevunge&theme=catppuccin-mocha&hide=prs&show=reviews%2Cissues_closed&border_width=0&border_radius=0)](https://bit.ly/gh-readme-profile)
