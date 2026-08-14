@@ -17,16 +17,12 @@
 - 42School
 - The BlackHole 
 - Bjarne Stroustrup
-- +XP
 
 ## Current Focus
 
 - Next-Generation Fleet Management for African Markets
 - My first RayCaster
-
-## Latest Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- Gastronomy Consultancy
 
 ## GitHub Stats
 
