@@ -15,7 +15,7 @@
 ## Training
 
 - 42School
-- Rail2Blackhole 
+- The BlackHole 
 - Bjarne Stroustrup
 - +XP
 
