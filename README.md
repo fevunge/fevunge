@@ -9,14 +9,16 @@
 ---
 ## Skills
 
-- **Systems Programming**
-- **DevOps & Cloud**
+| **skill** | **technology** | **certificate** | **related projects** |
+|-------|-----------|-------------|-------------------------|
+| <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/00ac9e9f-29f5-41e8-89c9-c43104b7b59d" /> **Systems Programming** | [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Java](https://www.oracle.com/java/), [Go](https://go.dev/solutions/use-cases) | — | — |
+| <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/00ac9e9f-29f5-41e8-89c9-c43104b7b59d" /> **API (Auth, JWT, API Keys)** | [Hono](https://hono.dev/), [Spring Boot](https://spring.io/why-spring) | — | — |
+
 
 ## Training
 
-- 42School
-- The BlackHole 
-- Bjarne Stroustrup
+- [42 School](https://www.42network.org/)
+
 
 ## Current Focus
 
