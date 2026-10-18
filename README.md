@@ -1,5 +1,3 @@
-![banner](banner.png)
-
 <div align="center">
 
 # `Fernando Vunge`
