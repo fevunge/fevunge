@@ -1,31 +1,82 @@
-![](banner.png)
+![banner](banner.png)
 
-# **Information Technology Technician**
+<div align="center">
 
-**fevunge | engineer | tlhc**  
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/fevunge) [![Gmail](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=white)](mailto:developervunge@gmail.com)  
- [![BLOG](https://img.shields.io/badge/BLOG-black.svg)](https://dev.to/fevunge)  [![SITE](https://img.shields.io/badge/SITE-purple.svg)](https://fevunge.github.io) 
+# `> whoami`
+
+### **fevunge** · engineer · tlhc
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Fullstack+Software+Developer;DevOps+%26+Architecture+Strategy;42+Human+Coder+%E2%80%94+Algo+%26+AI+%26+Data;Information+Technology+Technician" alt="Typing SVG" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fevunge)
+[![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developervunge@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fevunge)
+[![Site](https://img.shields.io/badge/Site-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://fevunge.github.io)
+
+</div>
 
 ---
-## Skills
 
-| **skill** | **technology** | **certificate** | **related projects** |
-|-------|-----------|-------------|-------------------------|
-| <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/00ac9e9f-29f5-41e8-89c9-c43104b7b59d" /> **Systems Programming** | [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Java](https://www.oracle.com/java/), [Go](https://go.dev/solutions/use-cases) | — | — |
-| <img width="16" height="16" alt="image" src="https://github.com/user-attachments/assets/00ac9e9f-29f5-41e8-89c9-c43104b7b59d" /> **API (Auth, JWT, API Keys)** | [Hono](https://hono.dev/), [Spring Boot](https://spring.io/why-spring) | — | — |
+## 🧠 About me
 
+I build software from the **metal up to the cloud**: low-level systems in C/C++,
+scalable backends in Java and Go, and typed APIs in TypeScript.
+I care about clean architecture, reliable deployments, and understanding
+*how things actually work*.
 
-## Training
+- 🏗️ **Fullstack Software Developer**: from APIs to interfaces
+- ⚙️ **DevOps & Architecture Strategy**: CI/CD, deployment, system design
+- 🎓 **42 Human Coder**: peer-learning, algorithms, **AI & Data**
+- 🛠️ **Information Technology Technician**: hands-on with infrastructure
 
-- [42 School](https://www.42network.org/)
+---
 
+## 🧰 Skills
 
-## Current Focus
+| **Skill** | **Technology** | **Certificate** | **Related projects** |
+|:--|:--|:--:|:--:|
+| <img width="16" height="16" alt="icon" src="https://github.com/user-attachments/assets/00ac9e9f-29f5-41e8-89c9-c43104b7b59d" /> **Systems Programming** | [C++](https://en.wikipedia.org/wiki/C%2B%2B) · [Java](https://www.oracle.com/java/) · [TypeScript](https://www.typescriptlang.org/) · [Go](https://go.dev/solutions/use-cases) | — | — |
+| <img width="16" height="16" alt="icon" src="https://github.com/user-attachments/assets/00ac9e9f-29f5-41e8-89c9-c43104b7b59d" /> **APIs (Auth, JWT, API Keys)** | [Hono](https://hono.dev/) · [Spring Boot](https://spring.io/why-spring) | — | — |
 
-- Next-Generation Fleet Management for African Markets
-- My first RayCaster
-- Gastronomy Consultancy
+### Tech stack
 
-## GitHub Stats
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,spring,ts,go,linux,git,docker&theme=dark" alt="stack" />
+</p>
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fevunge)
+---
+
+## 🎓 Training
+
+- 🟣 [**42 School**](https://www.42network.org/): project-based learning in systems programming, algorithms and low-level development
+
+---
+
+## 🚀 Current focus
+
+| | |
+|:--|:--|
+| 🌍 **Fleet Management for African Markets** | Next-generation platform built for local realities |
+| 🔦 **My first RayCaster** | Graphics, linear algebra and rendering from scratch |
+| 🍽️ **Gastronomy Consultancy** | Technology meeting the restaurant business |
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=fevunge&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fevunge&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=fevunge&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+`while (alive) { learn(); build(); ship(); }`
+
+</div>
