@@ -2,7 +2,7 @@
 
 # `Fernando Vunge`
 
-### **fevunge** · **devunge** · **tlhc**
+### **cloud** · **ai & data** · **systems** · **math**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Fullstack+Software+Developer;DevOps+%26+Architecture+Strategy;42+Human+Coder+%E2%80%94+Algo+%26+AI+%26+Data;Information+Technology+Technician" alt="Typing SVG" />
 
