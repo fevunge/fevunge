@@ -2,9 +2,9 @@
 
 <div align="center">
 
-# `> whoami`
+# `Fernando Vunge`
 
-### **fevunge** · engineer · tlhc
+### **fevunge** · **devunge** · **tlhc**
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A855F7&center=true&vCenter=true&width=640&lines=Fullstack+Software+Developer;DevOps+%26+Architecture+Strategy;42+Human+Coder+%E2%80%94+Algo+%26+AI+%26+Data;Information+Technology+Technician" alt="Typing SVG" />
 
@@ -17,21 +17,21 @@
 
 ---
 
-## 🧠 About me
+## Abou
 
 I build software from the **metal up to the cloud**: low-level systems in C/C++,
 scalable backends in Java and Go, and typed APIs in TypeScript.
 I care about clean architecture, reliable deployments, and understanding
 *how things actually work*.
 
-- 🏗️ **Fullstack Software Developer**: from APIs to interfaces
-- ⚙️ **DevOps & Architecture Strategy**: CI/CD, deployment, system design
-- 🎓 **42 Human Coder**: peer-learning, algorithms, **AI & Data**
-- 🛠️ **Information Technology Technician**: hands-on with infrastructure
+- **Fullstack Software Developer**: from APIs to interfaces
+- **DevOps & Architecture Strategy**: CI/CD, deployment, system design
+- **42 Human Coder**: peer-learning, algorithms, **AI & Data**
+- **Information Technology Technician**: hands-on with infrastructure
 
 ---
 
-## 🧰 Skills
+## Skills
 
 | **Skill** | **Technology** | **Certificate** | **Related projects** |
 |:--|:--|:--:|:--:|
@@ -46,23 +46,23 @@ I care about clean architecture, reliable deployments, and understanding
 
 ---
 
-## 🎓 Training
+## Training
 
-- 🟣 [**42 School**](https://www.42network.org/): project-based learning in systems programming, algorithms and low-level development
+- [**42 School**](https://www.42network.org/): project-based learning in systems programming, algorithms and low-level development
 
 ---
 
-## 🚀 Current focus
+## Current focus
 
 | | |
 |:--|:--|
-| 🌍 **Fleet Management for African Markets** | Next-generation platform built for local realities |
-| 🔦 **My first RayCaster** | Graphics, linear algebra and rendering from scratch |
-| 🍽️ **Gastronomy Consultancy** | Technology meeting the restaurant business |
+| **Fleet Management for African Markets** | Next-generation platform built for local realities |
+| **Black Label** | Graphics, linear algebra and rendering from scratch |
+| **Gastronomy Consultancy** | Technology meeting the restaurant business |
 
 ---
 
-## 📊 GitHub stats
+## GitHub stats
 
 <div align="center">
 
@@ -76,7 +76,5 @@ I care about clean architecture, reliable deployments, and understanding
 ---
 
 <div align="center">
-
-`while (alive) { learn(); build(); ship(); }`
 
 </div>
