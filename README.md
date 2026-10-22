@@ -46,7 +46,7 @@ I care about clean architecture, reliable deployments, and understanding
 
 ## Training
 
-- [**42 School**](https://www.42network.org/): project-based learning in systems programming, algorithms and low-level development
+- [**42 School**](https://www.42network.org/): training full stack software, autonomy, resilience, and extreme collaboration
 
 ---
 
