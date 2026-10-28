@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fevunge)
 [![Gmail](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developervunge@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/fevunge)
-[![Site](https://img.shields.io/badge/Site-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://fevunge.github.io)
+[![Site](https://img.shields.io/badge/Site-7C3AED?style=for-the-badge&logo=githubpages&logoColor=white)](https://fevunge.devdojo.io)
 
 </div>
 
